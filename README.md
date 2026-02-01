@@ -114,7 +114,7 @@ composer install
 ],
 ```
 
-### Step 6: Run Application
+### Step 4: Run Application
 
 Using Laragon:
 - Place project in `D:\566_G\laragon\www\system_upsi`
@@ -220,8 +220,8 @@ The database includes sample data for testing:
 
 ## 📸 Screenshots
 
-### Login Page
-![Login Page](screenshots/login.png)
+### Screenshots
+- [📸 System Screenshots Folder](https://drive.google.com/drive/folders/1lBs8VVQCUXBv5HXTAyFUfr9suAiE47RZ)
 
 ---
 
