@@ -221,7 +221,7 @@ The database includes sample data for testing:
 ## 📸 Screenshots
 
 ### Screenshots
-- [📸 System Screenshots Folder](https://drive.google.com/drive/folders/1lBs8VVQCUXBv5HXTAyFUfr9suAiE47RZ)
+[📸 System Screenshots Folder](https://drive.google.com/drive/folders/1lBs8VVQCUXBv5HXTAyFUfr9suAiE47RZ)
 
 ---
 
