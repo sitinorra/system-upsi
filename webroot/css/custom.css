@@ -1,0 +1,253 @@
+/* ============================================
+   UPSI COMPLAINT SYSTEM - CUSTOM THEME
+   Dark Green + Gold + Black
+   ============================================ */
+
+/* Base Typography - BIGGER FONTS */
+body {
+    font-size: 14px !important;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #1a1a1a;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #1a1a1a;
+}
+
+h1 { font-size: 2.5rem !important; }
+h2 { font-size: 2rem !important; }
+h3 { font-size: 1.75rem !important; }
+h4 { font-size: 1.5rem !important; }
+h5 { font-size: 1.25rem !important; }
+h6 { font-size: 1.1rem !important; }
+
+p, span, div, td, th, label, input, textarea, select {
+    font-size: 14px !important;
+}
+
+/* Navbar - DARK GREEN */
+.navbar-emerald {
+    background: linear-gradient(135deg, #004d40 0%, #00251a 100%) !important;
+}
+
+.navbar-brand {
+    font-size: 1.3rem !important;
+    font-weight: bold;
+}
+
+.nav-link {
+    font-size: 14px !important;
+}
+
+/* Buttons - DARK GREEN PRIMARY */
+.btn-emerald {
+    background: linear-gradient(135deg, #004d40 0%, #00251a 100%) !important;
+    border: none !important;
+    color: white !important;
+    font-size: 14px !important;
+    font-weight: 600;
+    padding: 10px 20px;
+}
+
+.btn-emerald:hover {
+    background: linear-gradient(135deg, #00695c 0%, #004d40 100%) !important;
+    color: #ffd700 !important;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+
+/* Buttons - GOLD ACCENT */
+.btn-gold {
+    background: linear-gradient(135deg, #d4af37 0%, #b8860b 100%) !important;
+    border: none !important;
+    color: #1a1a1a !important;
+    font-size: 14px !important;
+    font-weight: 600;
+}
+
+.btn-gold:hover {
+    background: linear-gradient(135deg, #ffd700 0%, #d4af37 100%) !important;
+    color: #000 !important;
+}
+
+/* Cards - DARK GREEN HEADERS */
+.card-header {
+    background: linear-gradient(135deg, #004d40 0%, #00251a 100%) !important;
+    color: white !important;
+    font-size: 1.1rem !important;
+    font-weight: 600;
+}
+
+/* Statistics Cards */
+.stat-card {
+    border-left: 4px solid #d4af37 !important;
+}
+
+.stat-card:hover {
+    border-left: 4px solid #ffd700 !important;
+    box-shadow: 0 6px 12px rgba(0,0,0,0.15) !important;
+}
+
+.stat-card h3 {
+    color: #004d40 !important;
+    font-size: 2rem !important;
+    font-weight: bold;
+}
+
+.stat-card p {
+    color: #666 !important;
+    font-size: 14px !important;
+}
+
+/* Icon Backgrounds - GOLD */
+.stat-icon {
+    background: linear-gradient(135deg, #d4af37 0%, #b8860b 100%) !important;
+    color: white !important;
+    font-size: 1.8rem !important;
+}
+
+/* Badges */
+.badge {
+    font-size: 13px !important;
+    padding: 6px 12px !important;
+}
+
+/* Tables */
+.table {
+    font-size: 14px !important;
+}
+
+.table thead th {
+    background-color: #f8f9fa !important;
+    color: #1a1a1a !important;
+    font-weight: 600;
+    font-size: 14px !important;
+    border-bottom: 2px solid #004d40 !important;
+}
+
+.table tbody td {
+    font-size: 14px !important;
+    vertical-align: middle;
+}
+
+.table-hover tbody tr:hover {
+    background-color: #f0f9f7 !important;
+}
+
+/* Forms */
+.form-label {
+    font-size: 14px !important;
+    font-weight: 600;
+    color: #1a1a1a;
+    margin-bottom: 8px;
+}
+
+.form-control, .form-select {
+    font-size: 14px !important;
+    padding: 10px 12px;
+    border: 1px solid #d1d5db;
+}
+
+.form-control:focus, .form-select:focus {
+    border-color: #004d40 !important;
+    box-shadow: 0 0 0 0.2rem rgba(0, 77, 64, 0.25) !important;
+}
+
+/* Welcome Cards - DARK GREEN + GOLD */
+.welcome-card {
+    background: linear-gradient(135deg, #004d40 0%, #00251a 100%) !important;
+}
+
+.welcome-card h4 {
+    color: white !important;
+    font-size: 1.5rem !important;
+}
+
+.welcome-card p {
+    color: rgba(255, 255, 255, 0.9) !important;
+    font-size: 14px !important;
+}
+
+.welcome-icon {
+    background: rgba(212, 175, 55, 0.3) !important;
+    color: #ffd700 !important;
+}
+
+/* Alert Messages */
+.alert {
+    font-size: 14px !important;
+}
+
+.alert-success {
+    background-color: #d4edda !important;
+    border-color: #004d40 !important;
+    color: #155724 !important;
+}
+
+.alert-info {
+    background-color: #d1ecf1 !important;
+    border-color: #0c5460 !important;
+    color: #0c5460 !important;
+}
+
+/* Page Headers - DARK GREEN */
+.page-header {
+    background: linear-gradient(135deg, #004d40 0%, #00251a 100%) !important;
+}
+
+.page-header h4 {
+    color: white !important;
+    font-size: 1.5rem !important;
+}
+
+.page-header p {
+    color: rgba(255, 255, 255, 0.85) !important;
+    font-size: 14px !important;
+}
+
+/* Footer Text */
+footer, .footer {
+    font-size: 13px !important;
+}
+
+/* Dropdown Menu */
+.dropdown-menu {
+    font-size: 14px !important;
+}
+
+.dropdown-item {
+    font-size: 14px !important;
+    padding: 10px 20px;
+}
+
+/* Pagination */
+.pagination {
+    font-size: 14px !important;
+}
+
+/* Links - GOLD ACCENT */
+a {
+    color: #b8860b !important;
+}
+
+a:hover {
+    color: #d4af37 !important;
+}
+
+/* Status Update Dropdown */
+select.status-select {
+    font-size: 14px !important;
+    font-weight: 600;
+}
+
+/* Small Text */
+small, .small {
+    font-size: 13px !important;
+}
+
+/* Flash Messages */
+.message {
+    font-size: 14px !important;
+    padding: 12px 20px;
+}
+
